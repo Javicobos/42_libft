@@ -35,7 +35,7 @@ char	**ft_split(char const *str, char sep)
 
 /*
 ** The ft_split function splits a string into multiply substrings that are
-** (in the original) separated by the character sep- 
+** (in the original) separated by the character sep. 
 **
 ** The basic structure is that it will first count the substrings (words)
 ** that are needed and allocate memory for a pointer to each of them, plus
